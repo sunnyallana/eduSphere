@@ -15,7 +15,7 @@ eduSphere is a Django-based web application designed for managing online courses
 
 ## Prerequisites
 
-Before running the application, make sure you have the following installed:
+#### Before running the application, make sure you have the following installed:
 
 - Python 3.x
 - Django
@@ -52,7 +52,7 @@ Before running the application, make sure you have the following installed:
   python manage.py runserver
   ```
 
-The application will be accessible at http://127.0.0.1:8000/.
+#### The application will be accessible at http://127.0.0.1:8000/.
 
 ## Usage
 
@@ -62,15 +62,15 @@ The application will be accessible at http://127.0.0.1:8000/.
   python manage.py createsuperuser
   ```
 
-Access the admin interface at http://127.0.0.1:8000/admin/ and log in with the superuser credentials.
+#### Access the admin interface at http://127.0.0.1:8000/admin/ and log in with the superuser credentials.
 
 2. Create courses, manage users, and perform administrative tasks through the Django admin.
 
-Visit the main application at http://127.0.0.1:8000/ to explore and use the online course features.
+#### Visit the main application at http://127.0.0.1:8000/ to explore and use the online course features.
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow these steps:
+#### If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature: git checkout -b feature-name.
